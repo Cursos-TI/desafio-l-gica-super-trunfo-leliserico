@@ -1,4 +1,4 @@
-//Desconsiderar do trabalho
+//Apagar
 
 #define _XOPEN_SOURCE 700
 #include <stdio.h>
